@@ -36,7 +36,7 @@ The application uses two tables: `users` and `transactions`.
 
 1. Clone the repository:
     ```bash
-    git clone https://submit.cs50.io/users/hosseinirtr/cs50/problems/2022/python/project
+    git clone https://github.com/hosseinirtr/pyqt_expenses_tracker
     ```
 
 2. Navigate to the project directory:
